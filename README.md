@@ -4,6 +4,6 @@ This is the striver A TO Z DSA sheet i really prefer this sheet because this she
 # content of the sheet :- 
 
 1.  Sorting technique
-2.  
+2.  Problem related to array
   
   
