@@ -1,5 +1,4 @@
 /* Start
-
 If the array has 0 or 1 element, return (already sorted).
 
 Choose a pivot element (commonly the first, last, or middle element).
